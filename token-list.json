@@ -1,6 +1,6 @@
 {
   "name": "World Population Coin",
-  "logoURI": "https://github.com/1769586104/token/blob/main/31.png",
+  "logoURI": "https://github.com/1769586104/token/blob/main/logo.png",
   "keywords": [
       "WPC",
       "wpc",
@@ -14,7 +14,7 @@
       "name": "World Population Coin",
       "symbol": "WPC",
       "decimals": 18,
-      "logoURI": "https://github.com/1769586104/token/blob/main/31.png"
+      "logoURI": "https://github.com/1769586104/token/blob/main/logo.png"
       }
     ],
     "version": {
