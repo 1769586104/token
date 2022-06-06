@@ -1,25 +1,20 @@
 {
-  "name": "World Population Coin",
-  "logoURI": "https://github.com/1769586104/token/blob/main/logo.png",
-  "keywords": [
-      "WPC",
-      "wpc",
-      "World Population Coin"
-    ],
-    "timestamp": "2022-06-06T01:40:34.305Z",
-    "tokens": [
-      {
-      "chainId": 1,
-      "address": "0x6b14a4d7a561b924c76e8a356727a5dccbdfb38f",
-      "name": "World Population Coin",
-      "symbol": "WPC",
-      "decimals": 18,
-      "logoURI": "https://github.com/1769586104/token/blob/main/logo.png"
-      }
-    ],
+    "name": "World Population Coin",
     "version": {
-      "major": 0,
-      "minor": 0,
-      "patch": 0
-    }
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    },
+    "logoURI": "https://github.com/1769586104/token/blob/main/31.png",
+    "timestamp": "2021-07-25 00:00:00.000+00:00",
+    "tokens": [
+        {
+            "chainId": 5,
+            "address": "0x6b14a4d7a561b924c76e8a356727a5dccbdfb38f",
+            "name": "World Population Coin",
+            "symbol": "WPC",
+            "decimals": 18,
+            "logoURI": "https://github.com/1769586104/token/blob/main/31.png"
+        }
+    ]
 }
